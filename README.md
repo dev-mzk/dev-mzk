@@ -27,6 +27,8 @@ dev mizook at your service
 ## add me!
 Discord is the preferred way to contact me but ill put everything here because yes
 
+<a href="https://discord.com/users/821243680396279831"><img src="https://lanyard.cnrad.dev/api/821243680396279831?idleMessage=im%20bored%20%3A3&theme=dark&bg=&borderRadius=&showDisplayName=true" /></a>
+
 <a href="https://discord.com/users/821243680396279831">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
 </a>
