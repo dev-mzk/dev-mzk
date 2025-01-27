@@ -27,7 +27,7 @@ dev skyy at your service :>
 ## add me!
 Twitter or Discord is the preferred way to contact me but ill put everything here because yes
 
-<a href="https://discord.com/users/841567976594866187"><img src="https://lanyard.cnrad.dev/api/841567976594866187?idleMessage=im%20bored%20%3A3&theme=dark&bg=&borderRadius=&showDisplayName=true" /></a>
+<a href="https://discord.com/users/841567976594866187"><img src="https://lanyard.cnrad.dev/api/841567976594866187?idleMessage=haii%20text%20me%20if%20bored%20%3AD&theme=dark&showDisplayName=true" /></a>
 
 <a href="https://discord.com/users/841567976594866187">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
