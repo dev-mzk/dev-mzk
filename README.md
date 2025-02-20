@@ -4,7 +4,7 @@ dev skyy at your service :>
 <img src="https://komarev.com/ghpvc/?username=dev-mzk&style=flat-square&color=blue" alt=""/>
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=dev-mzk&show_icons=true&locale=en&theme=tokyonight" alt="dev-mzk" /></p>
 
-## about meee
+## about meee [stalk me here](https://e-z.bio/mzk)
 
 > mizook, 16, she/her, trans mtf
 > 
